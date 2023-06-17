@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: #0c0d0d;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
 }
@@ -15,7 +16,7 @@ section {
 }
 
 .one {
-  background: #0c0d0d;
+  
 }
 
 
@@ -63,6 +64,7 @@ button {
   justify-content: center;
   align-items: center;
   padding: 2rem 2rem;
+  
 }
 
 .image {
@@ -80,4 +82,6 @@ button {
   .container {
     grid-template-columns: 1fr;
   }
+
+
 }
